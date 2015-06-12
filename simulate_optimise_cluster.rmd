@@ -193,9 +193,22 @@ We are dealing here with situations that differ quite radically from the either 
 
 1979: Decisions, Ensembles and clusters: the lone expert replaced by statistical algorithm that learns from the data (decision trees - 1980s); the algorithm replaced by ensembles of algorithms (2000) that collectively learn.  Cluster has this double sense of finding groups (the verb to cluster) and a collection (the cluster). Cluster as infrastructural principle (Google Compute 2011)
 
-## Conclusion
+## Conclusion: the pluri-dimensional space
 
+These are just some examples of techniques flowing through a vast and complex space of scientific knowledges, techniques, technologies, infrastructures, disciplines. They are hundreds of other techniques in these spaces, and literally thousands of implementations and variations.
+Techniques flow out of the closed-world spaces of the Cold War labs and research facilities. They become banal devices rather than instruments of a decisionistic elite.
+Another thing is taking shape here – a kind of space whose dimensions are practically treated as infinite, and whose potentially infinite expansion animates the massive build out of infrastructures and the intense efforts to scale up and scale down circuitry and electronic devices.  (e.g. NSA)
 
+We need to think about how we inhabit this space. It is a spectral entity in the sense that it comes into physical forms. But some things stand out it. 
+
+1. It is a cursed space. Bellman. That is, the curse of dimensionality means that we cannot inhabit it comfortably. Expanding it to encompass opens up huge voids that have to be managed because they destabilise patterns and boundaries. These feels like ColdWar geopolitics – reorganise the world in order to stabilise forms of power.
+2. The expansion of this space sometimes come from inversions of living into non-living, but also from convolutions – the multiplication of things by other things – a series of operations animate its reshaping;
+3. It is a space that can be characterised by some geometrical intuitions – lines, planes, surfaces – but constantly eludes that characterisation, and necessitates various attempts to navigate it, to reduce, to compel it to take on visual forms that we can sense. 
+4. It is an uneventful space in the sense that nothing happens there. It is like heaven in that sense. But the topology of the space – the way that it is folded, stretched, limited, bounded, open or closed matters in that all manner of decisions, on many different scales, depend on this space and its topology. 
+
+Hard to get a sense today of the liveness and immediacy of things is rooted in the accumulated sediment of techniques of working with numbers, information or data running back more than a century. 
+Important to grasp the emergence of  a problematization associated with data and information that is no reducible to sorting or searching or calculation in any simple sense. There are too many layers of abstraction practice and materiality that would be wiped out by collapsing the decision or the classification down to electronics/logic/code. 
+We can't access this problematization and its topological form at the level of use or practice. It is more spectral in its configuration than that. 
 
 ## References
 
