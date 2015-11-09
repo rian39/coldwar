@@ -157,17 +157,18 @@ The decision tree was and remains a key diagrammatic construct in Cold War close
 
 Take the case of the `iris` dataset, one of the most famous datasets in the machine learning scientific literature. The eugenicist statistician Ronald A. Fisher first used this dataset in his work on the important linear discriminant analysis technique in the late 1930s [@Fisher_1938]. The `iris` in some ways innocuously enough epitomises the modelling of species differences via measurements of biological properties (in this, measurements of such things as petal widths and lengths of irises growing in the Gaspé Peninsula in Canada). 
 
-```{r decision_tree, echo=FALSE, include=FALSE, dev='pdf'}
+```{r decision_tree, echo=FALSE, include=FALSE, dev='pdf', fig.width=10, fig.height=8}
 library(ggplot2)
 library(tree)
 data(iris)
 tree1 <- tree(Species ~ Sepal.Width + Petal.Width,  data = iris)
 par(mfrow = c(1,2))
 plot(tree1)
-text(tree1)
+text(tree1, cex=0.75)
 partition.tree(tree1,label="Species",add=TRUE)
-plot(iris$Petal.Width,iris$Sepal.Width, cex=0.65,  col=as.numeric(iris$Species), pch = as.numeric(iris$Species))
+plot(iris$Petal.Width,iris$Sepal.Width, cex=0.55,  col=as.numeric(iris$Species), pch = as.numeric(iris$Species))
 legend(1.75,4.5,legend=unique(iris$Species),col=unique(as.numeric(iris$Species)),pch=19)
+dev.off()
 ```
 
 \begin{figure}
